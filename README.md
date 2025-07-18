@@ -1,4 +1,4 @@
-### SNS followers Regression
+# SNS followers Regression
 
 인스타그램 데이터를 확보하여 각 변수들을 노출도에 따른 변수, 반응에 대한 변수, 게시물에 대한 변수로 구분한 뒤 데이터 전처리를 진행하였다. 
 
